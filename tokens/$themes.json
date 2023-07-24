@@ -1,18 +1,5 @@
 [
   {
-    "id": "4e185c63b0c9e8bf1ccdea220acbb388b26381b1",
-    "name": "colors",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "enabled",
-      "component/card": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:8:16",
-    "$figmaModeId": "8:4",
-    "$figmaVariableReferences": {},
-    "group": "global"
-  },
-  {
     "id": "b0b2a410f0ed53d13e3b87bcb505250ce83d0847",
     "name": "light",
     "$figmaStyleReferences": {},
@@ -61,6 +48,19 @@
     "$figmaModeId": "8:3",
     "$figmaVariableReferences": {},
     "group": "brand"
+  },
+  {
+    "id": "4e185c63b0c9e8bf1ccdea220acbb388b26381b1",
+    "name": "colors",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "enabled",
+      "component/card": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8:16",
+    "$figmaModeId": "8:4",
+    "$figmaVariableReferences": {},
+    "group": "global"
   },
   {
     "id": "ae0a16a51c6e01a8e8767c1aa4ee93a89eba7627",
