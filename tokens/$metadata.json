@@ -3,7 +3,6 @@
     "core",
     "mode/light",
     "mode/dark",
-    "brand/purple_wireframe",
     "brand/red_planet",
     "brand/blue_cab",
     "component/card"

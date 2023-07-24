@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "enabled",
-      "component/card": "enabled",
-      "brand/purple_wireframe": "enabled"
+      "component/card": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:16",
     "$figmaModeId": "8:4",
@@ -203,15 +202,5 @@
       "colors.accent.600": "3976eac3a34f79d9a5bd52246b5caf98eb2a4b41"
     },
     "group": "brand"
-  },
-  {
-    "id": "d4450453927e83d94d9cc935bcdb2fbf550fe595",
-    "name": "purple_wireframe",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "enabled",
-      "brand/purple_wireframe": "enabled"
-    },
-    "group": "global"
   }
 ]
