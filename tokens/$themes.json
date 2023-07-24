@@ -132,8 +132,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "mode/light": "enabled",
-      "brand/purple_wireframe": "disabled"
+      "mode/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:2",
     "$figmaModeId": "8:0",
@@ -157,8 +156,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "mode/dark": "enabled",
-      "brand/purple_wireframe": "disabled"
+      "mode/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:2",
     "$figmaModeId": "8:1",
@@ -181,8 +179,7 @@
     "name": "redplanet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/red_planet": "enabled",
-      "brand/purple_wireframe": "disabled"
+      "brand/red_planet": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:13",
     "$figmaModeId": "8:2",
@@ -197,8 +194,7 @@
     "name": "bluecab",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue_cab": "enabled",
-      "brand/purple_wireframe": "disabled"
+      "brand/blue_cab": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:13",
     "$figmaModeId": "8:3",
@@ -207,5 +203,15 @@
       "colors.accent.600": "3976eac3a34f79d9a5bd52246b5caf98eb2a4b41"
     },
     "group": "brand"
+  },
+  {
+    "id": "d4450453927e83d94d9cc935bcdb2fbf550fe595",
+    "name": "purple_wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "enabled",
+      "brand/purple_wireframe": "enabled"
+    },
+    "group": "global"
   }
 ]
