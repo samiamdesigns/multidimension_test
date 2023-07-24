@@ -4,12 +4,12 @@
       "value": "{accent.default}",
       "type": "color"
     },
-    "title": {
-      "value": "{fg.default}",
-      "type": "color"
-    },
     "bg": {
       "value": "{bg.default}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{fg.default}",
       "type": "color"
     },
     "subtext": {
