@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "enabled",
-      "component/card": "enabled",
-      "brand/purple_flowers": "disabled"
+      "component/card": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:2",
     "$figmaModeId": "1:0",
@@ -103,8 +102,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "mode/light": "enabled",
-      "brand/purple_flowers": "disabled"
+      "mode/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:86",
     "$figmaModeId": "1:1",
@@ -128,8 +126,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "mode/dark": "enabled",
-      "brand/purple_flowers": "disabled"
+      "mode/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:86",
     "$figmaModeId": "1:2",
@@ -152,8 +149,7 @@
     "name": "redplanet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/red_planet": "enabled",
-      "brand/purple_flowers": "disabled"
+      "brand/red_planet": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:97",
     "$figmaModeId": "1:3",
@@ -168,8 +164,7 @@
     "name": "bluecab",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue_cab": "enabled",
-      "brand/purple_flowers": "disabled"
+      "brand/blue_cab": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:97",
     "$figmaModeId": "1:4",
@@ -184,8 +179,7 @@
     "name": "purple_wireframe",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple_wireframe": "enabled",
-      "brand/purple_flowers": "disabled"
+      "brand/purple_wireframe": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:97",
     "$figmaModeId": "1:5",
@@ -200,12 +194,26 @@
     "name": "green_brandE",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green_trees": "enabled",
-      "brand/purple_flowers": "disabled"
+      "brand/green_trees": "enabled"
     },
     "group": "brand_efg",
     "$figmaCollectionId": "VariableCollectionId:1:100",
     "$figmaModeId": "1:6",
+    "$figmaVariableReferences": {
+      "colors.accent.400": "1a3c5103990dcb8e23038a2a812e019a84361521",
+      "colors.accent.600": "0572591350e2e8cab28d4f0c72d009c8c3cde398"
+    }
+  },
+  {
+    "id": "1fca0443a75334836a3a8920a8603ef96783e18f",
+    "name": "purple_flowers",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple_flowers": "enabled"
+    },
+    "group": "brand_efg",
+    "$figmaCollectionId": "VariableCollectionId:1:100",
+    "$figmaModeId": "101:0",
     "$figmaVariableReferences": {
       "colors.accent.400": "1a3c5103990dcb8e23038a2a812e019a84361521",
       "colors.accent.600": "0572591350e2e8cab28d4f0c72d009c8c3cde398"
