@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
     "core",
+    "component/card",
     "mode/light",
     "mode/dark",
     "brand/purple_wireframe",
     "brand/red_planet",
     "brand/blue_cab",
     "brand/green_trees",
-    "brand/purple_flowers",
-    "component/card"
+    "brand/purple_flowers"
   ]
 }

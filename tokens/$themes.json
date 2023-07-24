@@ -188,35 +188,5 @@
       "colors.accent.600": "c57b5163caf5d3fa92c3efbb3041f6bb14c3d66e"
     },
     "group": "brand"
-  },
-  {
-    "id": "9e5f9d54410b41817a69780dc7e5d006b571736c",
-    "name": "green_brandE",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/green_trees": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:1:100",
-    "$figmaModeId": "1:6",
-    "$figmaVariableReferences": {
-      "colors.accent.400": "3dfc8e921fba33648be0d2671d4ba75780fff41b",
-      "colors.accent.600": "78f48f3457bd9ae32aa141d0cbd743b21211e0a6"
-    },
-    "group": "brand_efg"
-  },
-  {
-    "id": "1fca0443a75334836a3a8920a8603ef96783e18f",
-    "name": "purple_flowers",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/purple_flowers": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:1:100",
-    "$figmaModeId": "1:7",
-    "$figmaVariableReferences": {
-      "colors.accent.400": "3dfc8e921fba33648be0d2671d4ba75780fff41b",
-      "colors.accent.600": "78f48f3457bd9ae32aa141d0cbd743b21211e0a6"
-    },
-    "group": "brand_efg"
   }
 ]
