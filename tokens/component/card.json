@@ -1,11 +1,11 @@
 {
   "card_color": {
-    "accent": {
-      "value": "{accent.default}",
-      "type": "color"
-    },
     "bg": {
       "value": "{bg.default}",
+      "type": "color"
+    },
+    "accent": {
+      "value": "{accent.default}",
       "type": "color"
     },
     "title": {
