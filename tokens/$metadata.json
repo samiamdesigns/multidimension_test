@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "mode/light",
+    "mode/dark",
+    "brand/red_planet",
+    "brand/blue_cab",
+    "component/card"
+  ]
+}
