@@ -145,48 +145,21 @@
     "group": "mode"
   },
   {
-    "id": "b4b5cc5f60f70918a2d7df4e3b1fe514fd116ec9",
-    "name": "redplanet",
+    "id": "54429ee89eaae9b45ac877bd006068be36ff7766",
+    "name": "green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/red_planet": "enabled"
+      "brand/green_trees": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:1:97",
-    "$figmaModeId": "1:3",
-    "$figmaVariableReferences": {
-      "colors.accent.400": "26775fab9f596ab12fa8b630be311789029aae60",
-      "colors.accent.600": "2b4903c3ad6f16c026f7d524fbc5bb57ee620128"
-    },
-    "group": "brand"
+    "group": "brand efg"
   },
   {
-    "id": "6dea0817a95863aeb011457c95d6cf09795c390f",
-    "name": "bluecab",
+    "id": "b297dc2df257134dccd44168ec498ba48624e200",
+    "name": "purple ",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue_cab": "enabled"
+      "brand/purple_flowers": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:1:97",
-    "$figmaModeId": "1:4",
-    "$figmaVariableReferences": {
-      "colors.accent.400": "26775fab9f596ab12fa8b630be311789029aae60",
-      "colors.accent.600": "2b4903c3ad6f16c026f7d524fbc5bb57ee620128"
-    },
-    "group": "brand"
-  },
-  {
-    "id": "ae0a16a51c6e01a8e8767c1aa4ee93a89eba7627",
-    "name": "purple_wireframe",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/purple_wireframe": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:1:97",
-    "$figmaModeId": "1:5",
-    "$figmaVariableReferences": {
-      "colors.accent.400": "26775fab9f596ab12fa8b630be311789029aae60",
-      "colors.accent.600": "2b4903c3ad6f16c026f7d524fbc5bb57ee620128"
-    },
-    "group": "brand"
+    "group": "brand efg"
   }
 ]
