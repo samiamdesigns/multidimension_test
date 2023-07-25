@@ -1,0 +1,14 @@
+{
+  "colors": {
+    "accent": {
+      "400": {
+        "value": "{colors.pink.400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.pink.600}",
+        "type": "color"
+      }
+    }
+  }
+}
