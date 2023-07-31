@@ -12,7 +12,6 @@
     "$figmaCollectionId": "VariableCollectionId:1:130",
     "$figmaModeId": "1:9",
     "$figmaVariableReferences": {
-      "card_color.bg": "206fec5d53afbb174404ba8b8a6e81929a6dee0f",
       "card_color.accent": "6f985c4894d1bd6fedba5277b5735a6a09b2edc4",
       "card_color.title": "5cb80e2ac3182bc8d8a4aaae2f2c98868297c24a",
       "card_color.subtext": "f59e7bf33bf730c878a877e8f97d0b42109aee7f",
@@ -94,7 +93,8 @@
       "spacing.xl": "bd3fe2021d844ea71e096e7d6480dbe99b946413",
       "borderRadius.sm": "5061210765ffc5f8075f915e234c746fc989be5b",
       "borderRadius.lg": "7ffdde2479f08e7534780989651b625d31cad330",
-      "borderRadius.xl": "631a7c86f6af96c56a71125cdae068eba5b33857"
+      "borderRadius.xl": "631a7c86f6af96c56a71125cdae068eba5b33857",
+      "card_color.background": "206fec5d53afbb174404ba8b8a6e81929a6dee0f"
     },
     "group": "global"
   },

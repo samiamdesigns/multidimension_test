@@ -1,6 +1,6 @@
 {
   "card_color": {
-    "bg": {
+    "background": {
       "value": "{bg.default}",
       "type": "color"
     },
